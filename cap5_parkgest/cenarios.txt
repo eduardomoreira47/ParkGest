@@ -1,0 +1,6 @@
+Cenários possíveis na Entrada do Parque:
+
+- O veículo é válido e tem vaga disponível;
+- O veículo é válido, mas não tem vaga disponível;
+- O veículo não é válido, mas tem vaga disponível;
+- O veículo não é válido e não tem vaga disponível;
